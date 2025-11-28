@@ -330,4 +330,6 @@ MIT License
 - API 문서 보기: http://localhost:8080/api-docs
 - 서버 상태 확인: http://localhost:8080/health
 - 홈페이지: http://localhost:8080
-- git clone https://github.com/Ncoding2023/basicProject.git [프로젝트명]
+ ```bash
+git clone https://github.com/Ncoding2023/basicProject.git [프로젝트명]
+```
